@@ -1,0 +1,2 @@
+# PisagorUcgenleri
+ Pisagor Ucgenleri c#

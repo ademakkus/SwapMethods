@@ -1,0 +1,5 @@
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Class\bin\Debug\SwapMethod_Class.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Class\bin\Debug\SwapMethod_Class.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Class\bin\Debug\SwapMethod_Class.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Class\obj\Debug\SwapMethod_Class.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Class\obj\Debug\SwapMethod_Class.pdb

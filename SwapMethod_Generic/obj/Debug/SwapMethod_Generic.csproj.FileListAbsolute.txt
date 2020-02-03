@@ -1,0 +1,10 @@
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Generic.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Generic.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Generic.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Class.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Class.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\bin\Debug\SwapMethod_Class.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\obj\Debug\SwapMethod_Generic.csprojAssemblyReference.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\obj\Debug\SwapMethod_Generic.csproj.CopyComplete
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\obj\Debug\SwapMethod_Generic.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod_Generic\obj\Debug\SwapMethod_Generic.pdb

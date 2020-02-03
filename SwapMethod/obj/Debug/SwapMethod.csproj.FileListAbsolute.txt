@@ -1,0 +1,6 @@
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\bin\Debug\SwapMethod.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\bin\Debug\SwapMethod.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\bin\Debug\SwapMethod.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\obj\Debug\SwapMethod.csprojAssemblyReference.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\obj\Debug\SwapMethod.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\SwapMethod\obj\Debug\SwapMethod.pdb

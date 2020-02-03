@@ -1,0 +1,14 @@
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\bin\Debug\WpfDockPanel.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\bin\Debug\WpfDockPanel.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\bin\Debug\WpfDockPanel.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.csprojAssemblyReference.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\MainWindow.g.cs
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\App.g.cs
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel_MarkupCompile.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel_MarkupCompile.lref
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\MainWindow.baml
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.g.resources
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.Properties.Resources.resources
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.csproj.GenerateResource.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\WpfDockPanel\obj\Debug\WpfDockPanel.pdb

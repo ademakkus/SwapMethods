@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PisagorUcgenleri", "PisagorUcgenleri\PisagorUcgenleri.csproj", "{75E35D2C-9911-4AA2-BAE3-7AEAD6981FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDockPanel", "WpfDockPanel\WpfDockPanel.csproj", "{D8D76988-29F3-4462-B673-91737772EC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethod", "SwapMethod\SwapMethod.csproj", "{D8501281-7779-4F89-8225-980F3DDDC656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethod_String", "SwapMethod_String\SwapMethod_String.csproj", "{876BADF0-9828-401B-B255-6E34B402C81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethod_Class", "SwapMethod_Class\SwapMethod_Class.csproj", "{B727D65D-0DE7-43BF-8904-CA0A3C39455B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethod_Generic", "SwapMethod_Generic\SwapMethod_Generic.csproj", "{420E703E-3556-41A3-801C-4260F6D40CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E35D2C-9911-4AA2-BAE3-7AEAD6981FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E35D2C-9911-4AA2-BAE3-7AEAD6981FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E35D2C-9911-4AA2-BAE3-7AEAD6981FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E35D2C-9911-4AA2-BAE3-7AEAD6981FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D76988-29F3-4462-B673-91737772EC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D76988-29F3-4462-B673-91737772EC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D76988-29F3-4462-B673-91737772EC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D76988-29F3-4462-B673-91737772EC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8501281-7779-4F89-8225-980F3DDDC656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8501281-7779-4F89-8225-980F3DDDC656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8501281-7779-4F89-8225-980F3DDDC656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8501281-7779-4F89-8225-980F3DDDC656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876BADF0-9828-401B-B255-6E34B402C81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876BADF0-9828-401B-B255-6E34B402C81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876BADF0-9828-401B-B255-6E34B402C81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876BADF0-9828-401B-B255-6E34B402C81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B727D65D-0DE7-43BF-8904-CA0A3C39455B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B727D65D-0DE7-43BF-8904-CA0A3C39455B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B727D65D-0DE7-43BF-8904-CA0A3C39455B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B727D65D-0DE7-43BF-8904-CA0A3C39455B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420E703E-3556-41A3-801C-4260F6D40CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420E703E-3556-41A3-801C-4260F6D40CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420E703E-3556-41A3-801C-4260F6D40CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420E703E-3556-41A3-801C-4260F6D40CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DB9A45-5D9E-441A-AE43-8CABF45290E5}
+	EndGlobalSection
+EndGlobal

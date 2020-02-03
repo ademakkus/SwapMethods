@@ -1,0 +1,6 @@
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\bin\Debug\PisagorUcgenleri.exe.config
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\bin\Debug\PisagorUcgenleri.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\bin\Debug\PisagorUcgenleri.pdb
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\obj\Debug\PisagorUcgenleri.csprojAssemblyReference.cache
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\obj\Debug\PisagorUcgenleri.exe
+C:\Users\Lab03 Öğrenci 01\source\repos\Oylesine\PisagorUcgenleri\obj\Debug\PisagorUcgenleri.pdb
